@@ -1,5 +1,6 @@
 Binary Search Tree Implementation in C++
 
+Menu: 
 1. Add to Copy of Tree
 2. Deep Copy of Tree
 3. Delete Original Tree
